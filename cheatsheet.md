@@ -12,4 +12,6 @@
 
 ***git status*** 
  : *muestra el archivo seleccionado, añadido o modificado*
- 
+
+***git commit -- .*** 
+ : *Restaura los archivos a el status de su ultimo commit*
